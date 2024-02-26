@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(78, 76, 73);
+    /* background-image: url(../Login-form/back2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+.back{
+    width: 700px ;
+    height: 580px;
+    background-color: rgb(68, 61, 48);
+    position: relative;
+    top: 40px;
+    left: 330px;
+    border-radius: 30px;
+    border-bottom: 5px solid rgb(24, 15, 7);
+    border-left: 10px solid rgb(24, 15, 7);
+    
+}
+
+
+
+
+
+.container{
+    width: 335px;
+    height: 550px;
+    /* background-color: rgb(78, 76, 73); */
+    position:absolute;
+    top: 15px;
+    left: 350px;
+    border-radius: 0px 30px 30px 0px ;
+    /* box-shadow: 0px 3px 68px -21px white; */
+}
+
+.header img{
+    width: 335px;
+    height: 550px;
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    display: inline;
+    border-radius: 30px;
+    border-bottom: 5px solid rgb(112, 110, 107);
+    border-left: 10px solid rgb(133, 133, 133);
+}
+.head h3{
+    position: absolute;
+    width: 260px;
+    top: 40px;
+    right: 35px;
+    text-align: center;
+    color: rgb(36, 25, 9);
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid rgb(160, 160, 160);
+    border-radius: 6px;
+
+}
+
+.Username{
+     position: absolute;
+     width: 270px;
+     height: 40px;
+     padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 380px;
+    top: 200px;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-bottom: 1px solid rgb(160, 160, 160);
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+
+
+.Fullname{
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    padding: 20px;
+   margin-bottom: 10px;
+   margin-left: 380px;
+   top: 250px;
+   color: rgb(255, 255, 255);
+   border: none;
+   padding: 10px;
+   border-bottom: 1px solid rgb(160, 160, 160);
+   border-radius: 5px;
+   background-color: transparent;
+}
+
+
+
+.Email{
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    padding: 20px;
+   margin-bottom: 10px;
+   margin-left: 380px;
+   top: 300px;
+   color: rgb(255, 255, 255);
+   border: none;
+   padding: 10px;
+   border-bottom: 1px solid rgb(160, 160, 160);
+   border-radius: 5px;
+   background-color: transparent;
+}
+
+
+.Password{
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    padding: 20px;
+   margin-bottom: 10px;
+   margin-left: 380px;
+   top: 350px;
+   color: rgb(255, 255, 255);
+   border: none;
+   padding: 10px;
+   border-bottom: 1px solid rgb(160, 160, 160);
+   border-radius: 5px;
+   background-color: transparent;
+}
+
+.forget{
+        position: absolute;
+        width: 270px;
+        height: 40px;
+        padding: 20px;
+       margin-bottom: 10px;
+       margin-left: 380px;
+       top: 420px;
+       color: rgb(187, 204, 196);
+       /* border: none; */
+       padding: 10px;
+       /* border-bottom: 1px solid rgb(5, 3, 3); */
+       /* border-radius: 5px; */
+       background-color: transparent;
+}
+
+
+.btn{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+   margin-bottom: 10px;
+   margin-left: 550px;
+   top: 460px;
+   color: rgb(255, 255, 255);
+   border: none;
+   padding: 10px;
+   /* border-bottom: 1px solid rgb(5, 3, 3); */
+   border-radius: 200px;
+   /* background-color: transparent; */
+   /* box-shadow: 10px 3px 68px -21px; */
+   background-color: rgb(24, 15, 7);
+
+}
